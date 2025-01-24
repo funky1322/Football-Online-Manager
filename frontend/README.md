@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 **Clone the repository:**
 
-git clone https://github.com/your-repo/fantasy-app-frontend.git
+git clone https://github.com/funky1322/Football-Online-Manager.git
 
 # Install Dependines
 
